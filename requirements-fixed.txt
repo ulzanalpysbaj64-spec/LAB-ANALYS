@@ -1,4 +1,0 @@
-# TODO Task 5: edit this copy until all checks and tests pass
-Flask==2.2.2
-requests==2.28.1
-PyYAML==5.3.1
