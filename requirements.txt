@@ -1,0 +1,4 @@
+# Student portal: packages that app.py imports directly
+Flask==2.2.2
+requests==2.28.1
+PyYAML==5.3.1

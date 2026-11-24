@@ -1,0 +1,6 @@
+# Internal packages of the university (they are NOT on public PyPI)
+# Hashes were recorded when each version was released.
+enu-gradebook==1.4.0 \
+    --hash=sha256:66458182851b7527b7ca128610c9efedae2f4c9f35b91231d7872996cd747b64
+enu-pdfcert==2.0.1 \
+    --hash=sha256:696d153b4746f574c9db2bb25f8c94c94d550e2e98be2b30274d37c249fb985d

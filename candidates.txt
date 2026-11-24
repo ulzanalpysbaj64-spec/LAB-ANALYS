@@ -1,0 +1,11 @@
+# Packages that teammates want to add. Check them first: do NOT install them.
+python-dateutil
+python3-dateutil
+reqeusts
+openpyxl
+jeIlyfish
+Flask_Login
+colourama
+urlib3
+qrcode
+PyYAML
